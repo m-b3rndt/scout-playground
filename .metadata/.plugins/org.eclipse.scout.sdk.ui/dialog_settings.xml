@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.scout.sdk.ui.wizard.form.fields.groupbox.GroupBoxNewWizard">
+		<item value="525" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="381" key="DIALOG_HEIGHT"/>
+		<item value="525" key="DIALOG_X_ORIGIN"/>
+		<item value="299" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.scout.sdk.ui.wizard.form.fields.stringfield.StringFieldNewWizard">
+		<item value="525" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="381" key="DIALOG_HEIGHT"/>
+		<item value="525" key="DIALOG_X_ORIGIN"/>
+		<item value="299" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.scout.sdk.ui.wizard.form.fields.buttonfield.ButtonFieldNewWizard">
+	</section>
+	<section name="org.eclipse.scout.sdk.ui.fields.proposal.nls.NlsTextLabelProvider">
+		<item value="300" key="dialogSettingsHeight"/>
+		<item value="400" key="dialogSettingsWidth"/>
+	</section>
+	<section name="org.eclipse.scout.sdk.ui.internal.wizard.newproject.ScoutProjectNewWizard">
+	</section>
+	<section name="org.eclipse.scout.sdk.ui.internal.wizard.export.ExportScoutProjectWizard">
+		<item value="helloworld.war" key="warFileNameRapSetting"/>
+		<item value="helloworld_server.war" key="warFileNameSetting"/>
+		<item value="C:\opt\deployment" key="targetDirSetting"/>
+		<item value="/org.eclipse.scout.helloworld.server/products/production/helloworld-server.product" key="productFileSetting"/>
+		<item value="427" key="DIALOG_X_ORIGIN"/>
+		<item value="299" key="DIALOG_Y_ORIGIN"/>
+		<item value="false" key="exportEARSetting"/>
+		<item value="721" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="helloworld.ear" key="earFileNameSetting"/>
+		<item value="/org.eclipse.scout.helloworld.ui.swt/products/production/helloworld-swt-client.product" key="clientProductFileSetting"/>
+		<item value="/org.eclipse.scout.helloworld.server/resources/html" key="clientExportFolderSetting"/>
+		<item value="/org.eclipse.scout.helloworld.ui.rap/products/production/helloworld-rap.product" key="productFileRapSetting"/>
+		<item value="381" key="DIALOG_HEIGHT"/>
+		<list key="selectedEntriesSetting">
+			<item value="server"/>
+			<item value="ui.rap"/>
+		</list>
+	</section>
+	<section name="org.eclipse.scout.sdk.ui.wizard.form.fields.FormFieldNewWizard">
+	</section>
+</section>

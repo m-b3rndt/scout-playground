@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+org.eclipse.scout.sdk.ui.view.scoutExplorer.bundleDisplayStyle=grouped
+pref_scout_project_prod_launcher_org.eclipse.scout.helloworld.shared=/org.eclipse.scout.helloworld.server/products/development/helloworld-server-dev.product,/org.eclipse.scout.helloworld.ui.rap/products/development/helloworld-rap-dev.product,/org.eclipse.scout.helloworld.ui.swing/products/development/helloworld-swing-client-dev.product,/org.eclipse.scout.helloworld.ui.swt/products/development/helloworld-swt-client-dev.product

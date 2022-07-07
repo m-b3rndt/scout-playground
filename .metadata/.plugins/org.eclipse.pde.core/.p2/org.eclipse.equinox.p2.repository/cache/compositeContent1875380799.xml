@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?compositeMetadataRepository version='1.0.0'?>
+<repository name='&quot;Eclipse Scout Cloud Libraries - Updatesite&quot;'
+    type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
+  <properties size='1'>
+    <property name='p2.timestamp' value='1401444000001'/>
+  </properties>
+  <children size='20'>
+    <child location='RC1-20150121-0905'/>
+  </children>
+</repository>
